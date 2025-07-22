@@ -1,0 +1,8 @@
+Retrieval-Augmented Generation (RAG) is a technique that combines information retrieval with generative AI models. RAG systems first retrieve relevant documents or passages from a knowledge base and then use a language model to generate answers or summaries based on both the retrieved context and the user query. This approach improves factual accuracy and allows the model to access up-to-date or domain-specific information beyond its training data.
+
+Key benefits of RAG include:
+- Enhanced accuracy and relevance of responses
+- Ability to cite sources or context
+- Scalability to large knowledge bases
+
+Popular vector databases for RAG include ChromaDB, Pinecone, and FAISS. Embedding models like Sentence Transformers are used to convert text into vector representations for efficient similarity search. 
